@@ -1,0 +1,23 @@
+a{
+    display:inline ;
+    width: 3px;
+    border:solid 40px yellow;
+    
+
+}
+h1{
+    color: coral;
+    font-family: cursive;
+    font-size: medium;
+    font-weight: bold;
+}
+img{
+    width: 40% ;
+    float: right;
+}
+a{
+    background-color: azure;
+    position:absolute;
+    right:0px;
+    
+}

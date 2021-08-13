@@ -1,0 +1,16 @@
+body{
+    background-color:  grey ;
+    text-align:center;
+}
+h1{
+    color:white;
+    padding:75px 0 75px 0;
+    background: linear-gradient( 45deg, yellow,green,blue);
+    border: solid 10px white;
+    border-radius:50px ;
+
+}
+img{
+    height:100;
+    width:100;
+}

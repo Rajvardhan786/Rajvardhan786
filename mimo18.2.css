@@ -1,0 +1,25 @@
+body{
+  background-color:cornflowerblue;
+  color:grey;
+  font-weight: normal;
+  font-family:cursive;
+  border-radius:50%;
+  border-left: 44%;
+  align-content: center;
+  background: linear-gradient( yellow, orange, red);
+  
+}
+
+ img{
+     margin-top:50% ;
+     margin-bottom:50% ;
+     margin-left: 50%;
+     margin-right: 50%;
+     filter:brightness(50%);
+     filter:drop-shadow(10%);
+     filter:grayscale(50%);
+     transform: rotate(45deg);
+     
+ 
+    }
+    
