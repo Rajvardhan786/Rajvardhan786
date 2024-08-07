@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajvardhan786
-- 👀 I’m interested in Web development and robotics and I'm learning the basics for them.. 
-- 🌱 I’m currently learning basics of web development 
-- � I’m looking to collaborate on Github..
+- 👀 Been a programming enthusiast for awhile 
+- 🌱 Looking forward to dive into my fields of interests.
+- � I’m open to collaborate on various front.
 - 📫 How to reach me ... <p style="font-family:cursive;">YOU CAN MAIL ME AT</p>= <em>rajvardhan.bhujbal07@gmail.com</em>
 
 <!---
